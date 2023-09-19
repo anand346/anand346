@@ -36,4 +36,4 @@ class About extends Me
     }
 }
 ```
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/anand346/anand346/blob/output/github-contribution-grid-snake.svg)
