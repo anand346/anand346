@@ -11,7 +11,7 @@ class About extends Me
             'details' => [
                 'name'     => 'Anand Raj',
                 'mail'     => 'rajanand9039@gmail.com',
-                'resume'   => 'https://drive.google.com/file/d/13ml4INw8jQldEmnKIZqI8f2yaa_mL_55/view',
+                'resume'   => 'https://drive.google.com/file/d/17DrFVCnbaZ2LGblLPc9mBGC4ghpOF13G/view?usp=sharing',
                 'linkedin' => 'https://linkedin.com/in/anand346',
                 'blogs'    => 'https://bepractical.tech/blogs',
             ]
