@@ -12,7 +12,7 @@ ssh-keygen -t ed25519 -C "first_email@gmail.com"
 ssh-keygen -t ed25519 -C "second_email@gmail.com"
 ```
 
-and save them in the **'C:\\Users\\username\\.ssh\\'** folder
+and save them in the **'C:\\Users\\your_username\\.ssh\\'** folder
 
 rename them like this
 
